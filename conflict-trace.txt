@@ -1,0 +1,7 @@
+# Synthetic byte-address trace: alternating blocks in the same direct-mapped set.
+0x00
+0x40
+0x00
+0x40
+0x00
+0x40
